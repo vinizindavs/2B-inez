@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+body{
+      font-family: "PT Serif", serif;
+      background-color: blue;
+      font-size:200%;
+      text-align: center;
+      tet-shandow: 2px 2px 2px white;
+}
+div{
